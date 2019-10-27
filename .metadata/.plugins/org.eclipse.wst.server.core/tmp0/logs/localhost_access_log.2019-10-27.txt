@@ -1,0 +1,6 @@
+127.0.0.1 - - [27/Oct/2019:18:20:47 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:18:20:48 +0900] "GET /changhoonsite/ HTTP/1.1" 200 10201
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:18:20:48 +0900] "GET /changhoonsite/css/bootstrap.min.css HTTP/1.1" 200 155758
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:18:20:48 +0900] "GET /changhoonsite/js/jquery.min.js HTTP/1.1" 200 88145
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:18:20:48 +0900] "GET /changhoonsite/js/bootstrap.min.js HTTP/1.1" 200 58072
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:18:20:48 +0900] "GET /changhoonsite/js/popper.js HTTP/1.1" 404 1108
